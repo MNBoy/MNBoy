@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moein Salari</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
-- 💬 Ask me about **Vue.js, Node.js, Laravel, etc.**
+- 💬 Ask me about **Vue.js, Node.js, Laravel, Javascript, etc.**
 
 - 📫 How to reach me **moeinsalar7@gmail.com**
 
