@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moein Salari</h1>
 <h3 align="center">A passionate Front-end developer</h3>
 
-- 💬 Ask me about **Vue.js,Tailwind, Javascript,Node.js, Laravel, etc.**
+- 💬 Ask me about **Vue.js, Tailwind, HTML/CSS, Javascript, Node.js, PHP, Laravel, etc.**
 
 - 📫 How to reach me **moeinsalar7@gmail.com**
 
