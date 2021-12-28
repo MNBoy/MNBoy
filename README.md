@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moein Salari</h1>
-<h3 align="center">A passionate Front-end developer</h3>
+<h3 align="center">A passionate Full-stack developer</h3>
 
 - 💬 Ask me about **Nuxt.js, Vue.js, Tailwind, Sass, HTML/CSS, Javascript, Node.js, PHP, Laravel, etc.**
 
