@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moein Salari</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
-- 💬 Ask me about **React.js, Next.js, Vue.js, Nuxt.js, Tailwind, Sass, HTML/CSS, Javascript, Node.js, PHP, Laravel, etc.**
+- 💬 Ask me about **Javascript, React.js, Node.js, Next.js, Vue.js, Nuxt.js, Tailwind, Sass, HTML/CSS**
 
 - 📫 How to reach me **moeinsalar7@gmail.com**
 
